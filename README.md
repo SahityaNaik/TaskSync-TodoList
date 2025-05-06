@@ -34,10 +34,13 @@
 
 ## 📦 Installation & Setup
 
-Clone the repository and install dependencies:
-
 ```bash
+# Clone the repository
 git clone https://github.com/your-username/tasksync.git
 cd tasksync
+
+# Install dependencies
 npm install
+
+# Start development server
 npm run dev
