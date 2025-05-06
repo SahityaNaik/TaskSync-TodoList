@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 Live Demo](https://)
+[Live Demo](https://tasksync-todolist.vercel.app)
 
 
 ---
