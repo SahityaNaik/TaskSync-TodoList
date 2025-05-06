@@ -8,7 +8,6 @@
 
 [Live Demo](https://tasksync-todolist.vercel.app)
 
-
 ---
 
 ## 🚀 Features
@@ -36,11 +35,9 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tasksync.git
-cd tasksync
-
+git clone https://github.com/SahityaNaik/TaskSync-TodoList
+cd TaskSync-TodoList
 # Install dependencies
 npm install
-
 # Start development server
 npm run dev
