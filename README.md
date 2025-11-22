@@ -12,6 +12,8 @@
 
 ## 📸 Screenshots
 
+### Main Interface
+
 ![Main Interface](./screenshots/main-interface.png)
  
 ---
